@@ -1,4 +1,4 @@
-# 📱 Calculadora Simples em React Native
+# 📱 Calculadora Simples
 
 Este é um projeto de uma calculadora simples desenvolvida em **React Native**. O objetivo é demonstrar os fundamentos do desenvolvimento de UI e lógica em um aplicativo móvel.
 
@@ -42,5 +42,8 @@ Para testar esta calculadora em seu ambiente de desenvolvimento, siga os passos 
 2.  **Abra o aplicativo:**
       * **No seu telefone:** Baixe o aplicativo **Expo Go** (disponível na App Store ou Google Play Store), escaneie o código QR exibido no terminal.
 
-## Projeto Funcionando
+## 💻 Projeto Funcionando
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4867be99-930a-4704-89bb-180783b8dfd0" alt="Projeto Funcionando" width="250"/>
+</p>
 
